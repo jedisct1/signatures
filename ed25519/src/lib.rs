@@ -155,6 +155,7 @@
 //! `ed25519` crate:
 //!
 //! - [`ed25519-dalek`] - mature pure Rust implementation of Ed25519
+//! - [`ed25519-compact`] - compact, pure Rust implementation of Ed25519
 //! - [`yubihsm`] - host-side client library for YubiHSM2 devices from Yubico
 //!
 //! The [Signatory] project provides wrappers for several notable crates which
